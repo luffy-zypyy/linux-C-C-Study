@@ -1,0 +1,4 @@
+
+BIN = 
+
+include ../common.mk
